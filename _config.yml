@@ -9,7 +9,6 @@ minimal_mistakes_skin: default
 search: false
 
 # Build settings
-markdown: karmdown
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 plugins:
