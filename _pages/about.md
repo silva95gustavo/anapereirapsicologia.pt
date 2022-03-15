@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sobre"
+title: "Ana Pereira"
 header:
   overlay_image: /assets/images/cover.jpg
   tagline: Psicologia Clínica
