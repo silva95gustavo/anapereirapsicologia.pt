@@ -1,3 +1,15 @@
+# Site settings
+title: Ana Pereira Psicóloga
+email:
+description: >-
+ Sou psicóloga clínica.
+ As minhas skills essenciais são a curiosidade para aprender novos temas e a motivação para superar novos desafios.
+ Tenho particular experiência no contacto com crianças e adolescentes, pessoas com deficiência mental ou com Perturbação do Espectro Autista.
+minimal_mistakes_skin: default
+search: false
+
+# Build settings
+markdown: karmdown
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 plugins:
@@ -7,3 +19,22 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
+
+author:
+  name   : "Ana Pereira"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "Sou psicóloga clínica. As minhas skills essenciais são a curiosidade para aprender novos temas e a motivação para superar novos desafios. Tenho particular experiência no contacto com crianças e adolescentes, pessoas com deficiência mental ou com Perturbação do Espectro Autista."
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
