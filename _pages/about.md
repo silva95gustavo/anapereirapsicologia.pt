@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: "Sobre"
 ---
 
 Bem-vindo!
