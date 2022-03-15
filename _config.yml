@@ -1,6 +1,6 @@
 # Site settings
 title: Ana Pereira
-subtitle: Psicóloga clínica
+subtitle: Psicologia clínica
 email:
 description: >-
  Psicóloga clínica.
@@ -24,7 +24,7 @@ plugins:
 author:
   name   : "Ana Pereira"
   avatar : "/assets/images/profile.png"
-  bio    : "Psicóloga clínica"
+  bio    : "Psicologia clínica"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
