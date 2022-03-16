@@ -30,11 +30,10 @@ feature_row:
 
 {% include feature_row %}
 
-_________________
 
 # Sobre mim
 
-![Ana Pereira - Psicóloga clínica](assets/images/profile.png)
+![Ana Pereira - Psicóloga clínica](assets/images/profile.png){: .align-center}
 
 Sou psicóloga clínica. As minhas skills essenciais são a curiosidade para aprender novos temas e a motivação para superar novos desafios. Tenho particular experiência no contacto com **crianças e adolescentes**, pessoas com **deficiência mental** ou com **Perturbação do Espectro Autista**.
 
@@ -118,7 +117,6 @@ Explicadora no Centro de Estudos QI3
 - Workshop Intervenção em crianças e jovens com Necessidades Educativas Especiais (10/2017) - história e lei da educação especial estratégias de intervenção
 - Curso Básico de Medicina Legal (04/2017) - abordagem dos temas Diagnóstico da Morte e a Morte Fetal
 
-_________________
 
 # Contactos
 
