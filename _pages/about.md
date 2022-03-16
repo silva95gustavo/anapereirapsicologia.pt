@@ -30,6 +30,8 @@ feature_row:
 
 {% include feature_row %}
 
+_________________
+
 # Sobre mim
 
 ![Ana Pereira - Psicóloga clínica](assets/images/profile.png)
@@ -115,6 +117,8 @@ Explicadora no Centro de Estudos QI3
 - Programa Tutorias por Pares (2017-2018) - tutora de 4 alunos de Erasmus para auxiliar a sua integração na Universidade do Minho
 - Workshop Intervenção em crianças e jovens com Necessidades Educativas Especiais (10/2017) - história e lei da educação especial estratégias de intervenção
 - Curso Básico de Medicina Legal (04/2017) - abordagem dos temas Diagnóstico da Morte e a Morte Fetal
+
+_________________
 
 # Contactos
 
