@@ -39,9 +39,7 @@ Sou psicóloga clínica. As minhas skills essenciais são a curiosidade para apr
 
 **Cédula Profissional:** 26313
 
-\ 
-\ 
-\ 
+<br />
 
 ## Formação Académica
 
