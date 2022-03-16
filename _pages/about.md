@@ -11,7 +11,7 @@ intro:
 feature_row:
   - image_path: /assets/images/psicologia-infantil-juvenil.jpg
     title: "Psicologia infantil e juvenil"
-    excerpt: "Sample text 1 with **markdown** formatting."
+    excerpt: "Todas as crianças e adolescentes passam por um conjunto de etapas de desenvolvimento durante as quais vão adquirindo conhecimentos e competências. Por vezes, associado a determinados fatores internos ou externos, alguns desses desenvolvimentos não são adquiridos na sua plenitude e observam-se certos sintomas indicativos da ocorrência de algumas dificuldades no processo de desenvolvimento. É importante a atenção adulta para estes casos, de modo a permitir uma intervenção precoce que possibilite uma rápida ajuda."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -32,6 +32,6 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 
-Sou psicóloga clínica. As minhas skills essenciais são a curiosidade para aprender novos temas e a motivação para superar novos desafios. Tenho particular experiência no contacto com **crianças e adolescentes**, pessoas com **deficiência mental** ou com **Perturbação do Espectro Autista**.
-
 {% include feature_row %}
+
+Sou psicóloga clínica. As minhas skills essenciais são a curiosidade para aprender novos temas e a motivação para superar novos desafios. Tenho particular experiência no contacto com **crianças e adolescentes**, pessoas com **deficiência mental** ou com **Perturbação do Espectro Autista**.
