@@ -15,7 +15,7 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/psicologia-infantil-juvenil.jpg
+  - image_path: /assets/images/avaliacao-neuropsicologica.jpg
     title: "Avaliação e Intervenção Neuropsicológica"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
