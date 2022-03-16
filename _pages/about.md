@@ -21,7 +21,7 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--secondar"
-  - image_path: /assets/splash/feat1-3.jpg
+  - image_path: /assets/images/formacoes.jpg
     title: "Formações"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
