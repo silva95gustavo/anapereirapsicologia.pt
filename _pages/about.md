@@ -1,4 +1,5 @@
 ---
+classes: wide
 permalink: /
 title: ""
 tagline: "This is a custom tagline content which overrides the *default* page excerpt."
