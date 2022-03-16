@@ -33,7 +33,7 @@ feature_row:
 
 # Sobre mim
 
-![Ana Pereira - Psicóloga clínica](assets/images/profile.png){: .align-center}
+![Ana Pereira - Psicóloga clínica](assets/images/profile.png){: .align-left}
 
 Sou psicóloga clínica. As minhas skills essenciais são a curiosidade para aprender novos temas e a motivação para superar novos desafios. Tenho particular experiência no contacto com **crianças e adolescentes**, pessoas com **deficiência mental** ou com **Perturbação do Espectro Autista**.
 
