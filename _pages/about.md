@@ -3,7 +3,7 @@ classes: wide
 layout: splash
 permalink: /
 title: ""
-tagline: "This is a custom tagline content which overrides the *default* page excerpt."
+tagline: "Psicologia Clínica"
 header:
   overlay_image: "/assets/images/cover.jpg"
 intro:
@@ -29,8 +29,9 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-Sou psicóloga clínica. As minhas skills essenciais são a curiosidade para aprender novos temas e a motivação para superar novos desafios. Tenho particular experiência no contacto com **crianças e adolescentes**, pessoas com **deficiência mental** ou com **Perturbação do Espectro Autista**.
 
 {% include feature_row id="intro" type="center" %}
+
+Sou psicóloga clínica. As minhas skills essenciais são a curiosidade para aprender novos temas e a motivação para superar novos desafios. Tenho particular experiência no contacto com **crianças e adolescentes**, pessoas com **deficiência mental** ou com **Perturbação do Espectro Autista**.
 
 {% include feature_row %}
