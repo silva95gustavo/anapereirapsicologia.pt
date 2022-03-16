@@ -89,7 +89,7 @@ Explicadora no Centro de Estudos QI3
 
 ## Extracurricular
 
-- SNS24 2021 - Formação inicial | Assintomáticos (01/2022)
+- SNS24 2021 - Formação inicial - Assintomáticos (01/2022)
 - SNS24 - AWARENESS - RGPD - Data Protection Office (DBS) (01/2022)
 - Formação Profissional - Intervenção Psicológica em Problemas Ligados ao Álcool (11/2021)
 - Formação Profissional - Implementação de Serviços de Psicologia em Unidades de Saúde do SNS (11/2021)
