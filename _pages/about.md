@@ -39,6 +39,10 @@ Sou psicóloga clínica. As minhas skills essenciais são a curiosidade para apr
 
 **Cédula Profissional:** 26313
 
+\ 
+\ 
+\ 
+
 ## Formação Académica
 
 Mestrado Integrado em Psicologia da Universidade do Minho| Braga, Portugal
