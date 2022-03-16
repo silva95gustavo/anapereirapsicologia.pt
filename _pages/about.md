@@ -36,20 +36,6 @@ feature_row:
 
 Sou psicóloga clínica. As minhas skills essenciais são a curiosidade para aprender novos temas e a motivação para superar novos desafios. Tenho particular experiência no contacto com **crianças e adolescentes**, pessoas com **deficiência mental** ou com **Perturbação do Espectro Autista**.
 
-<!-- modify this form HTML and place wherever you want your form -->
-<form
-  action="https://formspree.io/f/silva95gustavo@gmail.com"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
-</form>
+# Contactos
 
+Email: pereira.anacatarina@hotmail.com
