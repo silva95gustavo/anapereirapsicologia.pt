@@ -5,7 +5,6 @@ title: ""
 tagline: "This is a custom tagline content which overrides the *default* page excerpt."
 header:
   overlay_image: "/assets/images/cover.jpg"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 intro:
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
