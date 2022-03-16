@@ -17,14 +17,14 @@ var options = {
 "brandSetting":{
   "brandName":"Ana Pereira",
   "brandSubTitle":"Psicóloga",
-  "brandImg":"https://gustavosilva.me/anapereirapsicologa.pt/assets/images/profile.png",
+  "brandImg":"assets/images/profile.png",
   "welcomeText":"Olá, como posso ajudar?",
   "messageText":"",
   "backgroundColor":"#0a5f54",
   "ctaText":"Entrar em contacto",
   "borderRadius":"25",
   "autoShow":false,
-  "phoneNumber":"351913343632"
+  "phoneNumber":"351915877428"
 }
 };
 s.onload = function() {
