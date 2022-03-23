@@ -21,7 +21,7 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#contactos"
     btn_label: "Saber mais"
-    btn_class: "btn--secondary"
+    btn_class: "btn--primary"
   - image_path: /assets/images/avaliacao-neuropsicologica.jpg
     title: "Avaliação e Intervenção Neuropsicológica"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
