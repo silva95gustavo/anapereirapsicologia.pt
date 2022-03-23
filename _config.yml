@@ -6,8 +6,8 @@ description: >-
  Psicóloga clínica.
 minimal_mistakes_skin: default
 search: false
-url: https://silva95gustavo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl: "/anapereirapsicologia.pt" # the subpath of your site, e.g. "/blog"
+url: https://silva95gustavo.github.io
+baseurl: /anapereirapsicologia.pt
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
