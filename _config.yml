@@ -47,12 +47,6 @@ defaults:
     values:
       layout: single
       author_profile: false
-  - scope:
-      path: "resume"
-      type: pages
-    values:
-      layout: single
-      author_profile: false
 
 after_footer_scripts:
   - /assets/js/after-footer.js
