@@ -1,7 +1,7 @@
 ---
 classes: wide
 layout: splash
-permalink: /about/
+permalink: /
 hidden: true
 title: ""
 tagline: "Psicologia Clínica"
