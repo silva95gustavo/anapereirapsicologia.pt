@@ -2,6 +2,7 @@
 classes: wide
 layout: splash
 permalink: /
+hidden: true
 title: ""
 tagline: "Psicologia Clínica"
 header:
