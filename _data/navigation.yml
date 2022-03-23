@@ -1,5 +1,5 @@
 main:
   - title: "Sobre"
-    url: /
+    url: /about/
   - title: "Currículo"
     url: /resume/
