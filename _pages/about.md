@@ -19,6 +19,9 @@ feature_row:
   - image_path: /assets/images/formacoes.jpg
     title: "Formações"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#contactos"
+    btn_label: "Saber mais"
+    btn_class: "btn--secondary"
   - image_path: /assets/images/avaliacao-neuropsicologica.jpg
     title: "Avaliação e Intervenção Neuropsicológica"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
