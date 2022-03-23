@@ -1,6 +1,6 @@
 ---
 classes: wide
-permalink: /resume
+permalink: /resume/
 title: "Currículo"
 tagline: "Psicologia Clínica
 ---
