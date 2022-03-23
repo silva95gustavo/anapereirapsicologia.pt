@@ -2,7 +2,7 @@
 classes: wide
 permalink: /resume/
 title: "Currículo"
-tagline: "Psicologia Clínica
+tagline: "Psicologia Clínica"
 ---
 
 
