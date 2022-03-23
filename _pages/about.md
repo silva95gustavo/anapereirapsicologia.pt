@@ -14,15 +14,16 @@ feature_row:
     excerpt: "Todas as crianças e adolescentes passam por um conjunto de etapas de desenvolvimento durante as quais vão adquirindo conhecimentos e competências. Por vezes, associado a determinados fatores internos ou externos, alguns desses desenvolvimentos não são adquiridos na sua plenitude e observam-se certos sintomas indicativos da ocorrência de algumas dificuldades no processo de desenvolvimento. É importante a atenção adulta para estes casos, de modo a permitir uma intervenção precoce que possibilite uma rápida ajuda."
     url: "#contactos"
     btn_label: "Agendar consulta"
+    btn_class: "btn--primary"
   - image_path: /assets/images/formacoes.jpg
     title: "Formações"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/avaliacao-neuropsicologica.jpg
     title: "Avaliação e Intervenção Neuropsicológica"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    url: "#contactos"
     btn_label: "Contactar"
-    btn_class: "#contactos"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
