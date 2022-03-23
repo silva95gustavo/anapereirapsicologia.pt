@@ -1,0 +1,5 @@
+main:
+  - title: "Sobre"
+    url: "/"
+  - title: "Currículo"
+    url: "/resume"
