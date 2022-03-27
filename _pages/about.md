@@ -20,7 +20,9 @@ feature_row:
     title: "Formações"
     excerpt: >
       Alguns temas abordados:
+      <br/>
       - Como lidar com birras
+      <br/>
       - Controlar o medo de ser rejeitado
     url: "#contactos"
     btn_label: "Saber mais"
