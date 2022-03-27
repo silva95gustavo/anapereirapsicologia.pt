@@ -8,7 +8,7 @@ tagline: "Psicologia Clínica"
 header:
   overlay_image: "/assets/images/cover.jpg"
 intro:
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'A atividade de Psicologia Clínica tem como objetivo prevenir, entender, refletir ou reduzir o sofrimento psicológico do indivíduo, assim como promover o desenvolvimento pessoal e o bem-estar.'
 feature_row:
   - image_path: /assets/images/psicologia-infantil-juvenil.jpg
     title: "Psicologia infantil e juvenil"
