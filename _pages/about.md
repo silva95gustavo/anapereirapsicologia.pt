@@ -18,7 +18,10 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/formacoes.jpg
     title: "Formações"
-    excerpt: "Alguns temas abordados:\nComo lidar com birras\nControlar o medo de ser rejeitado"
+    excerpt: >
+      Alguns temas abordados:
+      - Como lidar com birras
+      - Controlar o medo de ser rejeitado
     url: "#contactos"
     btn_label: "Saber mais"
     btn_class: "btn--primary"
