@@ -21,11 +21,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-7LPPTQHF4T"
+ 
 
 author:
   name   : "Ana Pereira"
