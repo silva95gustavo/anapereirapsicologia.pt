@@ -18,13 +18,13 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/formacoes.jpg
     title: "Formações"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Alguns temas abordados:\nComo lidar com birras\nControlar o medo de ser rejeitado"
     url: "#contactos"
     btn_label: "Saber mais"
     btn_class: "btn--primary"
   - image_path: /assets/images/avaliacao-neuropsicologica.jpg
     title: "Avaliação e Intervenção Neuropsicológica"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "A avaliação neuropsicológica consiste numa avaliação diagnóstica das funções cognitivas do indivíduo, a um nível global. Com base nos resultados dessa avaliação é efetuado um plano de intervenção adequado às necessidades."
     url: "#contactos"
     btn_label: "Contactar"
     btn_class: "btn--primary"
