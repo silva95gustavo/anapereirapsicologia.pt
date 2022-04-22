@@ -17,15 +17,10 @@ feature_row:
     btn_label: "Agendar consulta"
     btn_class: "btn--primary"
   - image_path: /assets/images/formacoes.jpg
-    title: "Formações"
-    excerpt: >
-      Alguns temas abordados:
-      <br/>
-      - Como lidar com birras
-      <br/>
-      - Controlar o medo de ser rejeitado
+    title: "Psicologia Clínica do Adulto"
+    excerpt: Tem como objetivo principal ajudar o paciente a atingir um estado de bem-estar emocional, autoconhecimento e perceção de autocompetência de forma a que este consiga definir e perseguir os seus objetivos. Através do autoconhecimento o paciente é convidado a entender a forma como se comporta, as suas próprias emoções e pensamentos, a identificar padrões comportamentais e bloqueios e a descobrir que estratégias correspondem e ajudam a resolver as suas necessidades pessoais e, assim, atingir o bem-estar e a felicidade.
     url: "#contactos"
-    btn_label: "Saber mais"
+    btn_label: "Agendar Consulta"
     btn_class: "btn--primary"
   - image_path: /assets/images/avaliacao-neuropsicologica.jpg
     title: "Avaliação e Intervenção Neuropsicológica"
