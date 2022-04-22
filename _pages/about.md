@@ -8,7 +8,7 @@ tagline: "Psicologia Clínica"
 header:
   overlay_image: "/assets/images/cover.jpg"
 intro:
-  - excerpt: '"Quem olha para fora sonha, quem olha para dentro desperta" <br/> Carl Jung'
+  - excerpt: '*Quem olha para fora sonha, quem olha para dentro desperta* <br/> Carl Jung'
 feature_row:
   - image_path: /assets/images/psicologia-infantil-juvenil.jpg
     title: "Psicologia infantil e juvenil"
