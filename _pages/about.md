@@ -44,7 +44,7 @@ feature_row:
 
 ![Ana Pereira - Psicóloga clínica](assets/images/profile.png){: .align-left}
 
-Olá o meu nome é Ana, sou Psicóloga Clínica e estou a. As minhas skills essenciais são a curiosidade para aprender novos temas e a motivação para superar novos desafios. Tenho particular experiência no contacto com **crianças e adolescentes**, pessoas com **deficiência mental** ou com **Perturbação do Espectro Autista**.
+Olá o meu nome é Ana, sou Psicóloga Clínica e estou aqui para ajudar. Tenho particular experiência no contacto com **crianças e adolescentes**, pessoas com **deficiência mental** ou com **Perturbação do Espectro Autista**.
 
 
 [Ver currículo](./resume){: .btn .btn--primary}
