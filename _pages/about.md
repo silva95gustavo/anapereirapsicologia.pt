@@ -16,7 +16,7 @@ feature_row:
     url: "#contactos"
     btn_label: "Agendar consulta"
     btn_class: "btn--primary"
-  - image_path: /assets/images/formacoes.jpg
+  - image_path: /assets/images/psicoterapia-primeira-consulta.jpg
     title: "Psicologia Clínica do Adulto"
     excerpt: Tem como objetivo principal ajudar o paciente a atingir um estado de bem-estar emocional, autoconhecimento e de autocompetência de forma a que este consiga definir e perseguir os seus objetivos. Através do autoconhecimento o paciente é convidado a entender a forma como se comporta, as suas próprias emoções e pensamentos, a identificar padrões comportamentais e bloqueios e a descobrir que estratégias correspondem e ajudam a resolver as suas necessidades pessoais e, assim, atingir o bem-estar e a felicidade.
     url: "#contactos"
