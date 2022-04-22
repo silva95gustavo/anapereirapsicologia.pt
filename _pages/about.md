@@ -11,8 +11,8 @@ intro:
   - excerpt: '*"Quem olha para fora sonha, quem olha para dentro desperta"* <br/> Carl Jung'
 feature_row:
   - image_path: /assets/images/psicologia-infantil-juvenil.jpg
-    title: "Psicologia infantil e juvenil"
-    excerpt: "Todas as crianças e adolescentes passam por um conjunto de etapas de desenvolvimento durante as quais vão adquirindo conhecimentos e competências. Por vezes, associado a determinados fatores internos ou externos, alguns desses desenvolvimentos não são adquiridos na sua plenitude e observam-se certos sintomas indicativos da ocorrência de algumas dificuldades no processo de desenvolvimento. É importante a atenção adulta para estes casos, de modo a permitir uma intervenção precoce que possibilite uma rápida ajuda."
+    title: "Psicologia Infantil e Juvenil"
+    excerpt: Todas as crianças e adolescentes passam por um conjunto de etapas de desenvolvimento durante as quais vão adquirindo conhecimentos e competências. Por vezes, associado a determinados fatores internos ou externos, alguns desses desenvolvimentos não são adquiridos na sua plenitude e é possível observar-se certos sintomas indicativos da ocorrência de algumas dificuldades no processo de desenvolvimento. É importante a atenção adulta para estes casos, de modo a permitir uma intervenção precoce que possibilite uma rápida ajuda. {: .text-justify}
     url: "#contactos"
     btn_label: "Agendar consulta"
     btn_class: "btn--primary"
@@ -44,7 +44,7 @@ feature_row:
 
 ![Ana Pereira - Psicóloga clínica](assets/images/profile.png){: .align-left}
 
-Sou psicóloga clínica. As minhas skills essenciais são a curiosidade para aprender novos temas e a motivação para superar novos desafios. Tenho particular experiência no contacto com **crianças e adolescentes**, pessoas com **deficiência mental** ou com **Perturbação do Espectro Autista**.
+Olá o meu nome é Ana, sou Psicóloga Clínica e estou a. As minhas skills essenciais são a curiosidade para aprender novos temas e a motivação para superar novos desafios. Tenho particular experiência no contacto com **crianças e adolescentes**, pessoas com **deficiência mental** ou com **Perturbação do Espectro Autista**.
 
 
 [Ver currículo](./resume){: .btn .btn--primary}
