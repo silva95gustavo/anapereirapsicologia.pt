@@ -9,12 +9,15 @@ tagline: "Psicologia Clínica"
 ## Experiência Profissional
 
 Psicóloga no Espaço Terapêutico Namastê da Trofa| Porto, Portugal
+
 01/2022- atual
 
 Psicóloga no SNS24
+
 01/2022 – atual
 
 Estágio Profissional na APPACDM da Trofa|Porto, Portugal
+
 12/2020 – 12/2021
 -	Propus e delineei um plano de intervenção ao nível das emoções/inteligência emocional e da estimulação cognitiva
 -	Coordenação de intervenções/sessões em grupo
@@ -25,12 +28,14 @@ Estágio Profissional na APPACDM da Trofa|Porto, Portugal
 -	Elaboração de relatórios clínicos de avaliação psicológica
 
 Estágio Curricular em Psicologia Clínica e da Saúde (Neuropsicologia) | Braga, Portugal 
+
 01/2020–04/2020
 -	Avaliação e Intervenção Neuropsicológica
 -	Prática de instrumentos de Avaliação Neuropsicológica
 -	Discussão e Análise de Casos Clínicos
 
 Estágio Curricular de Investigação no SCALab | Lille, França 
+
 11/2019–12/2019
 -	Formação e realização de mini projetos incluindo os instrumentos Eye-Tracker, Eletrocenfalograma e Medidas Fisiológicas
 -	Uso da plataforma LimeSurvey
@@ -38,6 +43,7 @@ Estágio Curricular de Investigação no SCALab | Lille, França
 -	Introdução aos modelos hierárquicos mistos
 
 Explicadora no Centro de Estudos QI3
+
 11/2016– 06/2020
 -	Realização de apoios individuais e em grupo
 
@@ -45,10 +51,12 @@ Explicadora no Centro de Estudos QI3
 ## Formação Académica
 
 Mestrado Integrado em Psicologia da Universidade do Minho| Braga, Portugal
+
 09/2015 – 06/2020
 -	Média final: 16
 
 Université des Sciences Humaines et Sociales | Lille, França
+
 09/2019 – 12/2019
 -	Programa de Dupla Titulação da Universidade do Minho com a Universidade de Lille
 -	Conteúdos abordados: ética, filosofia cognitiva, neurociências funcionais, processos emocionais, cognitivos e neurocognitivos e ciências afetivas, aprendizagem e emergência de comportamentos, métodos de estudo da cognição, das emoções e da ação
