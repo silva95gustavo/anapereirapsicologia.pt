@@ -8,7 +8,7 @@ tagline: "Psicologia Clínica"
 header:
   overlay_image: "/assets/images/cover.jpg"
 intro:
-  - excerpt: 'A atividade de Psicologia Clínica tem como objetivo prevenir, entender, refletir ou reduzir o sofrimento psicológico do indivíduo, assim como promover o desenvolvimento pessoal e o bem-estar.'
+  - excerpt: '"Quem olha para fora sonha, quem olha para dentro desperta" - Carl Jung'
 feature_row:
   - image_path: /assets/images/psicologia-infantil-juvenil.jpg
     title: "Psicologia infantil e juvenil"
