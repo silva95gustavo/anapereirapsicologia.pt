@@ -12,7 +12,7 @@ intro:
 feature_row:
   - image_path: /assets/images/psicologia-infantil-juvenil.jpg
     title: "Psicologia Infantil e Juvenil"
-    excerpt: Todas as crianças e adolescentes passam por um conjunto de etapas de desenvolvimento durante as quais vão adquirindo conhecimentos e competências. Por vezes, associado a determinados fatores internos ou externos, alguns desses desenvolvimentos não são adquiridos na sua plenitude e é possível observar-se certos sintomas indicativos da ocorrência de algumas dificuldades no processo de desenvolvimento. É importante a atenção adulta para estes casos, de modo a permitir uma intervenção precoce que possibilite uma rápida ajuda.
+    excerpt: "Todas as crianças e adolescentes passam por um conjunto de etapas de desenvolvimento durante as quais vão adquirindo conhecimentos e competências. Por vezes, associado a determinados fatores internos ou externos, alguns desses desenvolvimentos não são adquiridos na sua plenitude e é possível observar-se certos sintomas indicativos da ocorrência de algumas dificuldades no processo de desenvolvimento. É importante a atenção adulta para estes casos, de modo a permitir uma intervenção precoce que possibilite uma rápida ajuda."
     url: "#contactos"
     btn_label: "Agendar consulta"
     btn_class: "btn--primary"
@@ -29,7 +29,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/avaliacao-neuropsicologica.jpg
     title: "Avaliação e Intervenção Neuropsicológica"
-    excerpt: "A avaliação neuropsicológica consiste numa avaliação diagnóstica das funções cognitivas do indivíduo, a um nível global. Com base nos resultados dessa avaliação é efetuado um plano de intervenção adequado às necessidades."
+    excerpt: "A avaliação neuropsicológica consiste numa avaliação das funções cognitivas globais do indivíduo. Com base nos resultados dessa avaliação é efetuado um plano de intervenção adequado às necessidades individuais.
     url: "#contactos"
     btn_label: "Contactar"
     btn_class: "btn--primary"
