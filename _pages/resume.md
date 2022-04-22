@@ -8,11 +8,11 @@ tagline: "Psicologia Clínica"
 
 ## Experiência Profissional
 
+Psicóloga no Espaço Terapêutico Namastê da Trofa| Porto, Portugal
+01/2022- atual
+
 Psicóloga no SNS24
 01/2022 – atual
--	Atendimento e triagem de doentes Covid-19 assintomáticos
--	Auxílio nas questões/dúvidas colocadas pelo utente
--	Reencaminhamento segundo dados do algoritmo
 
 Estágio Profissional na APPACDM da Trofa|Porto, Portugal
 12/2020 – 12/2021
@@ -88,6 +88,6 @@ Université des Sciences Humaines et Sociales | Lille, França
 
 # Contactos
 
-📧 pereira.anacatarina@hotmail.com
+📧 anacfpereira.psi@gmail.com
 
 🌍 Trofa, Porto, Portugal
