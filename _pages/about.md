@@ -12,7 +12,7 @@ intro:
 feature_row:
   - image_path: /assets/images/psicologia-infantil-juvenil.jpg
     title: "Psicologia Infantil e Juvenil"
-    excerpt: "Todas as crianças e adolescentes passam por um conjunto de etapas de desenvolvimento durante as quais vão adquirindo conhecimentos e competências. Por vezes, associado a determinados fatores internos ou externos, alguns desses desenvolvimentos não são adquiridos na sua plenitude e é possível observar-se certos sintomas indicativos da ocorrência de algumas dificuldades no processo de desenvolvimento. É importante a atenção adulta para estes casos, de modo a permitir uma intervenção precoce que possibilite uma rápida ajuda."
+    excerpt: Todas as crianças e adolescentes passam por um conjunto de etapas de desenvolvimento durante as quais vão adquirindo conhecimentos e competências. Por vezes, associado a determinados fatores internos ou externos, alguns desses desenvolvimentos não são adquiridos na sua plenitude e é possível observar-se certos sintomas indicativos da ocorrência de algumas dificuldades no processo de desenvolvimento. É importante a atenção adulta para estes casos, de modo a permitir uma intervenção precoce que possibilite uma rápida ajuda.{: style="text-align: justify"}
     url: "#contactos"
     btn_label: "Agendar consulta"
     btn_class: "btn--primary"
