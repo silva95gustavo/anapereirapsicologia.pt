@@ -51,5 +51,6 @@ Olá o meu nome é Ana, sou Psicóloga Clínica e estou aqui para ajudar. Tenho 
 # Contactos
 
 📧 anacfpereira.psi@gmail.com
+![image](https://user-images.githubusercontent.com/104231722/164801252-620dea80-11b5-4555-80ac-0991d4e11eba.png) ana-pereira-87a1251b5/
 
 🌍 Trofa, Porto, Portugal
